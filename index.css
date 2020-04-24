@@ -23,8 +23,8 @@ html, body{
 
 #chart {
 	position: fixed;
-	left: 31.5%;
-	top: 2.5%;
+	left: 90%;
+	top: 90%;
 	width: 35%;
 	background-color: transparent;
 	z-index: 1;
